@@ -27,7 +27,7 @@ Essa relação entre privacidade e padronização foi uma das coisas que mais me
 Apesar das limitações, considero o Tails uma distribuição extremamente interessante para estudar privacidade, anonimato, rastros digitais e fingerprinting.
 
 **Recomendo muito testar essa distro.**
-
+---
 ### Qubes OS e Whonix
 
 O **Whonix** e o **Qubes OS** foram as únicas distribuições que eu realmente não consegui testar na prática. Infelizmente, meu PC teve a placa-mãe queimada e acabou sobrando apenas um notebook com processador dual-core e 3 GB de RAM, que não possui hardware suficiente para aproveitar bem essas duas soluções.
@@ -38,7 +38,7 @@ Foi uma daquelas tecnologias que eu não consegui testar, mas que, só pela docu
 
 Com certeza, quando eu tiver condições financeiras para montar uma máquina adequada, o Qubes OS será uma das minhas primeiras escolhas e provavelmente minha distribuição principal.
 
-
+---
 ### Minha visão sobre o livro
 
 Na minha visão, o livro aborda conceitos muito interessantes e, principalmente, muito relevantes para o mundo em que vivemos.
